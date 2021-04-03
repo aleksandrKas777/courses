@@ -34,10 +34,10 @@ describe('dowbleElem', function() {
 
 
     it('проверяем удвоение массива', () => { 
-		assert.equal(dowbleElem([2, 5]), [4, 10]); 
+		assert.deepEqual(dowbleElem([2, 5]), [4, 10]); 
 	}); 
     it('проверяем удвоение массива', () => { 
-		assert.equal(dowbleElem([0]), [0]); 
+		assert.deepEqual(dowbleElem([0]), [0]); 
 	}); 
 
 
