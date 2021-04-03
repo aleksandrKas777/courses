@@ -18,5 +18,3 @@ function  dowbleElem(arr) {
     
 };
 
-dowbleElem(['g']);
-console.log(dowbleElem(['j']));
