@@ -2,7 +2,7 @@
   "name": "hometask26",
   "version": "1.0.0",
   "description": "",
-  "main": "array-utils.js",
+  "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production"
