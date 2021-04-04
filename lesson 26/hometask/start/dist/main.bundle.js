@@ -1,1 +1,1 @@
-!function(o){let l=o.slice(0);l.sort(),console.log(o,l)}([4,1,0,6]);
+(()=>{"use strict";!function(o){const s=o.slice(0);s.sort(),console.log(o,s)}([4,1,0,6]),function(o){const s=o.slice(0);s.sort(((o,s)=>s-o)),console.log(o,s)}([4,1,0,6])})();
